@@ -1,4 +1,4 @@
-These are some remote control files for my HK3350 Amplifier's remote-in port. The port is a standard 3.5mm mono jack, so you can just play these files into the jack using a line cable.
+These are some remote control files for my HK3390 Amplifier's remote-in port. The port is a standard 3.5mm mono jack, so you can just play these files into the jack using a line cable.
 
 I use this command on linux:
 ```
